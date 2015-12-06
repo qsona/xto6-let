@@ -1,0 +1,16 @@
+{
+  "name": "xto6-let",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "xto6": "^1.2.0-alpha"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qsona",
+  "license": "MIT"
+}
